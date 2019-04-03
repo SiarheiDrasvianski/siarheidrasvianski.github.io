@@ -4,6 +4,7 @@ Hi, I'm an iOS software developer with Business Analysis background. Working wit
 
 Contact me:
 siarheidrasvianski🐌live.com
+
 telegram @siarheidrasvianski
 
 ## Experience
@@ -47,3 +48,8 @@ Implementing feed and chat functions for third-party app using layer.com and pro
 A posing tool for artists that mimic behavior of real drawing mannequin including physical materials, lightning and inverse kinematics.
 
 <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/mnqn1.PNG?raw=true" width="250"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/mnqn2.PNG?raw=true" width="250"> 
+
+### Streaming app (NDA)
+Supporting one of the top5 US market streaming apps as a part of big international team. Integration with CarPlay, BMW, Kenwood head devices, working with media, network, analytics and ads framework etc.
+
+
