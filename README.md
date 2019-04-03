@@ -2,6 +2,10 @@
 
 Hi, I'm an iOS software developer with Business Analysis background. Working with business and people needs inspired me to going into app development. I enjoy creating apps both as an engineering product and as a solution of real world problem.
 
+Contact me:
+siarheidrasvianski🐌live.com
+telegram @siarheidrasvianski
+
 ## Experience
 ### Skills
 - App Architecture
