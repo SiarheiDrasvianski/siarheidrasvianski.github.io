@@ -32,7 +32,7 @@ Trainer app the allows user to gain skill of drawing real-world object sketches 
 
 <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/skatch1.png?raw=true" width="375"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/skatch2.png?raw=true" width="375">
 ### GT
-An Uber-like app for commetcial vehicles.
+An Uber-like app for commercial vehicles.
 
 <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/gt1.png?raw=true" width="250"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/gt2.png?raw=true" width="250"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/gt3.png?raw=true" width="250">
 ### Soho (communication module)
