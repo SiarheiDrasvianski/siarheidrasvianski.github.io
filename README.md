@@ -29,13 +29,17 @@ BSU, Faculty in Mechanics and Math. Specialization: Mathematician, System Analys
 ## Recent Projects
 ### Skatch
 Trainer app the allows user to gain skill of drawing real-world object sketches by taking series of drawing challenges from basic to advanced ones.
+
 <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/skatch1.png?raw=true" width="500"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/skatch2.png?raw=true" width="500">
 ### GT
 An Uber-like app for commetcial vehicles.
+
 <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/gt1.png?raw=true" width="375"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/gt2.png?raw=true" width="375"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/gt3.png?raw=true" width="375">
 ### Soho (communication module)
 Implementing feed and chat functions for third-party app using layer.com and proprietary API.
+
 <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/layer1.png?raw=true" width="375"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/layer2.png?raw=true" width="375"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/layer3.png?raw=true" width="375">
 ### MNQN
 A posing tool for artists that mimic behavior of real drawing mannequin including physical materials, lightning and inverse kinematics.
+
 <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/mnqn1.PNG?raw=true" width="375"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/mnqn2.PNG?raw=true" width="375"> 
