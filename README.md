@@ -65,8 +65,8 @@ A posing tool for artists that mimic behavior of real drawing mannequin includin
 
 <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/mnqn1.PNG?raw=true" width="250"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/mnqn2.PNG?raw=true" width="250"> 
 
-### Streaming app (NDA)
+### iHeartRadio 
 Supporting one of the top5 US market streaming apps as a part of big international team. Integration with CarPlay, BMW, Kenwood head devices, working with media, network, analytics and ads framework etc.
 
-<img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/x.jpg?raw=true" width="250"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/x.jpg?raw=true" width="250"> 
+<img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/ihr.png?raw=true" width="250"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/ihr.png?raw=true" width="250"> 
 
