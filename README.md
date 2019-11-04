@@ -55,7 +55,7 @@ Full cycle of app development from archectural planning to implementation. Integ
 ### NXTLVL fitness education app
 Support and upgrades of a legacy app.
 
-<img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/nxt1.jpg?raw=true" width="375"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/nxt2.jpg?raw=true" width="375"> 
+<img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/nxt1.png?raw=true" width="375"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/nxt2.png?raw=true" width="375"> 
 
 ### Skatch
 Trainer app the allows user to gain skill of drawing real-world object sketches by taking series of drawing challenges from basic to advanced ones.
