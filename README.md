@@ -50,7 +50,7 @@ BSU, Faculty in Mechanics and Math. Specialization: Mathematician, System Analys
 ### Events Tracking app
 Full cycle of app development from archectural planning to implementation. Integration with Amazon Amplify and Amazon Cognito services.
 
-<img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/evap1.png?raw=true" width="375"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/evap2.png?raw=true" width="375">
+<img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/evap1.png?raw=true" width="375"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/evap2.png?raw=true" width="375"><img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/evap3.png?raw=true" width="375">
 
 ### NXTLVL fitness education app
 Support and upgrades of a legacy app.
