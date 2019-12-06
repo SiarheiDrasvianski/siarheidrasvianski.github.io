@@ -46,6 +46,10 @@ BSU, Faculty in Mechanics and Math. Specialization: Mathematician, System Analys
 
 ## Recent Projects
 
+### AR drawing app
+Developing an image processing algorithm using Apple ARKit and Apple Vision, integrating Firebase storage and analytics, APN, IAP.
+
+<img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/ardraw1.png?raw=true" width="375"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/ardraw2.png?raw=true" width="375">
 
 ### Events Tracking app
 Full cycle of app development from archectural planning to implementation. Integration with Amazon Amplify and Amazon Cognito services.
