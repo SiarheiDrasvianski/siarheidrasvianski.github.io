@@ -46,6 +46,21 @@ BSU, Faculty in Mechanics and Math. Specialization: Mathematician, System Analys
 
 ## Recent Projects
 
+### Bizhealth
+An app that allows doctor to handle a remote medical exam using video-conference and remote medical equipment like wireless stetoscope. It uses CoreAudio and CoreBluetooth to process equipment data stream and pass it to a third-party streaming service.
+
+<img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/bizhealth1.png?raw=true" width="375"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/bizhealth2.png?raw=true" width="375"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/bizhealth3.png?raw=true" width="375">
+
+### Mixupload (starting v4)
+Music streaming app with offline playback capability.
+
+<img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/mixupload1.png?raw=true" width="375"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/mixupload2.png?raw=true" width="375">
+
+### Note Hero
+The app that helps user to learn music sight-reading by following step-by-step lessons with exercises.
+
+<img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/notehero1.png?raw=true" width="375"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/notehero2.png?raw=true" width="375">
+
 ### AR drawing app
 Developing an image processing algorithm using Apple ARKit and Apple Vision, integrating Firebase storage and analytics, APN, IAP.
 
