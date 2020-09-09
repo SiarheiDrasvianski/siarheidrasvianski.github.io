@@ -51,7 +51,7 @@ https://medkitdoc.de/
 An app that allows doctor to handle a remote medical exam using video-conference and remote medical equipment like wireless stetoscope. It uses CoreAudio and CoreBluetooth to process equipment data stream and pass it to a third-party streaming service.
 
 <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/mkdpromo.jpeg?raw=true" width="420">
-<img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/bizhealth3.png?raw=true" width="320"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/bizhealth1.png?raw=true" width="320
+<img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/bizhealth3.png?raw=true" width="320"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/bizhealth1.png?raw=true" width="320">
 
 ### Mixupload (starting v4)
 Music streaming app with offline playback capability.
