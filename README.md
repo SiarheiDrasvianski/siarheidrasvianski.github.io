@@ -57,15 +57,15 @@ Music streaming app with offline playback capability.
 
 <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/mixupload1.png?raw=true" width="375"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/mixupload2.png?raw=true" width="375">
 
-### Note Hero
-The app that helps user to learn music sight-reading by following step-by-step lessons with exercises.
-
-<img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/notehero1.png?raw=true" width="375"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/notehero2.png?raw=true" width="375">
-
 ### AR drawing app
 Developing an image processing algorithm using Apple ARKit and Apple Vision, integrating Firebase storage and analytics, APN, IAP.
 
 <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/ardraw1.png?raw=true" width="375"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/ardraw2.png?raw=true" width="375">
+
+### Note Hero
+The app that helps user to learn music sight-reading by following step-by-step lessons with exercises.
+
+<img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/notehero1.png?raw=true" width="375"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/notehero2.png?raw=true" width="375">
 
 ### Events Tracking app
 Full cycle of app development from archectural planning to implementation. Integration with Amazon Amplify and Amazon Cognito services.
