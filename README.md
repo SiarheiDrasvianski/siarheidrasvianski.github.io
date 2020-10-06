@@ -4,6 +4,7 @@ Hi, I’m an iOS developer with Business Analyst experience. This helps me to us
 
 Contact me:
 siarheidrasvianski🐌live.com
+
 https://www.linkedin.com/in/siarheidrasvianski/
 
 telegram @siarheidrasvianski
@@ -36,12 +37,14 @@ BSU, Faculty in Mechanics and Math. Specialization: Mathematician, System Analys
 
 ### MedKitDoc
 https://medkitdoc.de/
+
 An app that allows doctor to handle a remote medical exam using video-conference and remote medical equipment like wireless stetoscope. It uses CoreAudio and CoreBluetooth to process equipment data stream and pass it to a third-party streaming service.
 
 <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/mkdpromo.jpeg?raw=true" width="720">
 
 ### Mixupload (starting v4)
 https://mixupload.com/
+
 Music streaming app with offline playback capability.
 
 <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/mixupload1.png?raw=true" width="375"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/mixupload2.png?raw=true" width="375">
@@ -53,6 +56,7 @@ Developing an image processing algorithm using Apple ARKit and Apple Vision, int
 
 ### Shelfy
 https://shelfy.net/
+
 Retail store goods management app.
 
 <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/shelfy1.PNG?raw=true" width="375"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/shelfy2.PNG?raw=true" width="375">
