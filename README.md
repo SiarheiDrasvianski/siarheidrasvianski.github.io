@@ -55,7 +55,7 @@ Developing an image processing algorithm using Apple ARKit and Apple Vision, int
 https://shelfy.net/
 Retail store goods management app.
 
-<img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/shelfy.PNG?raw=true" width="375"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/shelfy.PNG?raw=true" width="375">
+<img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/shelfy1.PNG?raw=true" width="375"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/shelfy2.PNG?raw=true" width="375">
 
 ### Note Hero
 The app that helps user to learn music sight-reading by following step-by-step lessons with exercises.
