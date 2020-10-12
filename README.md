@@ -76,11 +76,6 @@ The app that helps user to learn music sight-reading by following step-by-step l
 
 <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/notehero-combo.png?raw=true" width="700">
 
-### NXTLVL fitness education app
-Support and upgrades of a legacy app.
-
-<img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/nxt1.png?raw=true" width="375"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/nxt2.png?raw=true" width="375"> 
-
 ### Various apps
 A number of apps that required adding new features and frameworks, migrating to new SDK, redesign, fixing or refactoring.
 
