@@ -47,29 +47,34 @@ An app that allows doctor to handle a remote medical exam using video-conference
 
 Music streaming app with offline playback capability.
 
-<img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/mixupload1.png?raw=true" width="375"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/mixupload2.png?raw=true" width="375">
+<img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/mixupload-combo.png?raw=true" width="700">
 
 ### AR drawing app
 Developing an image processing algorithm using Apple ARKit and Apple Vision, integrating Firebase storage and analytics, APN, IAP.
 
-<img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/ardraw1.png?raw=true" width="375"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/ardraw2.png?raw=true" width="375">
+<img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/ardraw-combo.png?raw=true" width="700">
 
 ### Shelfy
 <https://shelfy.net/>
 
 Retail store goods management app.
 
-<img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/shelfy1.PNG?raw=true" width="375"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/shelfy2.PNG?raw=true" width="375">
-
-### Note Hero
-The app that helps user to learn music sight-reading by following step-by-step lessons with exercises.
-
-<img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/notehero1.png?raw=true" width="375"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/notehero2.png?raw=true" width="375">
+<img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/shelfy-combo.png?raw=true" width="700">
 
 ### Events Tracking app
 Full cycle of app development from archectural planning to implementation. Integration with Amazon Amplify and Amazon Cognito services.
 
-<img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/evap1.png?raw=true" width="375"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/evap2.png?raw=true" width="375">
+<img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/evap-combo.png?raw=true" width="700">
+
+### MNQN
+A posing tool for artists that mimic behavior of real drawing mannequin including physical materials, lightning and inverse kinematics.
+
+<img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/mnqn-combo.png?raw=true" width="700"> 
+
+### Note Hero
+The app that helps user to learn music sight-reading by following step-by-step lessons with exercises.
+
+<img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/notehero-combo.png?raw=true" width="700">
 
 ### NXTLVL fitness education app
 Support and upgrades of a legacy app.
@@ -85,11 +90,6 @@ Trainer app the allows user to gain skill of drawing real-world object sketches 
 Implementing feed and chat functions for third-party app using layer.com and proprietary API.
 
 <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/layer1.png?raw=true" width="250"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/layer2.png?raw=true" width="250"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/layer3.png?raw=true" width="250">
-
-### MNQN
-A posing tool for artists that mimic behavior of real drawing mannequin including physical materials, lightning and inverse kinematics.
-
-<img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/mnqn1.PNG?raw=true" width="250"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/mnqn2.PNG?raw=true" width="250"> 
 
 ### iHeartRadio 
 Supporting one of the top5 US market streaming apps as a part of big international team. Integration with CarPlay, BMW, Kenwood head devices, working with media, network, analytics and ads framework etc.
