@@ -45,7 +45,7 @@ An app that allows doctor to handle a remote medical exam using video-conference
 ### Mixupload (starting v4)
 <https://mixupload.com/>
 
-Music streaming app with offline playback capability.
+Music streaming app with offline playback capability. Has custom-built network layer with caching and offline capabilities.
 
 <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/mixupload-combo.png?raw=true" width="700">
 
@@ -57,7 +57,7 @@ Developing an image processing algorithm using Apple ARKit and Apple Vision, int
 ### Shelfy
 <https://shelfy.net/>
 
-Retail store goods management app.
+Retail store goods management app. Contains declarative-style UI for composing lists with dynamic contents.
 
 <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/shelfy-combo.png?raw=true" width="700">
 
@@ -72,7 +72,7 @@ A posing tool for artists that mimic behavior of real drawing mannequin includin
 <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/mnqn-combo.png?raw=true" width="700"> 
 
 ### Note Hero
-The app that helps user to learn music sight-reading by following step-by-step lessons with exercises.
+The app that helps user to learn music sight-reading by following step-by-step lessons with exercises. Activities include domain analysis and solution development.
 
 <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/notehero-combo.png?raw=true" width="700">
 
@@ -81,15 +81,8 @@ Support and upgrades of a legacy app.
 
 <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/nxt1.png?raw=true" width="375"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/nxt2.png?raw=true" width="375"> 
 
-### Skatch
-Trainer app the allows user to gain skill of drawing real-world object sketches by taking series of drawing challenges from basic to advanced ones.
-
-<img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/skatch1.png?raw=true" width="375"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/skatch2.png?raw=true" width="375">
-
-### Soho (communication module)
-Implementing feed and chat functions for third-party app using layer.com and proprietary API.
-
-<img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/layer1.png?raw=true" width="250"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/layer2.png?raw=true" width="250"> <img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/layer3.png?raw=true" width="250">
+### Various apps
+A number of apps that required adding new features and frameworks, migrating to new SDK, redesign, fixing or refactoring.
 
 ### iHeartRadio 
 Supporting one of the top5 US market streaming apps as a part of big international team. Integration with CarPlay, BMW, Kenwood head devices, working with media, network, analytics and ads framework etc.
