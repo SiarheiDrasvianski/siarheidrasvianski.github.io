@@ -35,6 +35,21 @@ BSU, Faculty in Mechanics and Math. Specialization: Mathematician, System Analys
 
 ## Recent Projects
 
+
+### OhMyBoss (starting v2)
+<https://ohmyboss.tech/>
+
+App for team social climate monitoring.
+
+<img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/ombscreen.png?raw=true" width="720">
+
+### MedKitDoc (CE version)
+<https://medkitdoc.de/>
+
+Updated version of MedKitDoc app that was certified as medical device in EU.
+
+<img src="https://github.com/SiarheiDrasvianski/siarheidrasvianski.github.io/blob/master/appscreens/mkd-ce.jpeg?raw=true" width="720">
+
 ### MedKitDoc
 <https://medkitdoc.de/>
 
